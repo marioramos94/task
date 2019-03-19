@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-app.get('/',function(res,req){
+app.get('/',function(req,res){
   res.send('Hello world(test2)!\n');
 })
 var port = 9000;
