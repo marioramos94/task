@@ -60,12 +60,11 @@ exports.createproduct = (req, res) => {
 exports.createinvoice = (req, res) => {
     // Validate request        
     
-    let {id,description,code,price} =req.body    
-    let data ={description,code,price}
+    
       // Add a new document in collection "cities" with ID 'LA'
-    var setDoc = productRef.doc(id).set(data);
+    var setDoc = invoiceRef.doc(id).set(req.body);
 
-    res.send(req.body)   
+    res.send("invoice added succesfully")   
 };
 
 

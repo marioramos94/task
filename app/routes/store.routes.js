@@ -6,7 +6,8 @@ module.exports = (app) => {
     app.get('/products', products.get);
     app.get('/product', products.find);
     app.post('/product', products.createproduct)
-    //app.post('/invoice', products.createinvoice)
+    
+    app.post('/invoice', products.createinvoice)
     app.get('/report',products.report)
 
 
