@@ -1,0 +1,22 @@
+{
+    
+    "database":{
+        "adminsdk":{
+            "type": "service_account",
+            "project_id": "storechain-task",
+            "private_key_id": "7e32d49a20e3602e98c78a9848cc81f04dbed737",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdTYALFUe0FdnZ\nYsGHOTrkb2ATSaB7xDGAT2qTlEUe4IHqiYIlfJmIVKRm3VqBwMbOWmsk1TB36Ea4\nKQuScgG8KZ99bKfnbv2jUZ3FvAKWipuxvyi1T1UyDG1wRMAWSO75XV94klirCQQ9\n9i/LuYtQa2SxaA5Ovra3oCHkndHviIJ8aSl679fwCsQkjRC4xATDAHROE0amIDMh\nsVt4O8w8pCN4/6tMViv8l1Sj9bUk2WTzaP0UmXcl/M96Qca41cm3DDQAs/u1SBLj\nEFe9phx/xG7m/BHMz9BhGDrtLvN/aRVDNw8CgaAs2KREGkk/RHM+Wujw0KOokxfm\nZN9Q1KnNAgMBAAECggEADag+57dvRElpYqBaYR0s6cxpsQMBdf1wts0uWaXT4nxn\niy9pJ0wMIHQI2g154C4WlK/xAX+o96ApE7Asmwhe8jFC8abPZR6T0uwxIIvURbG/\nFs2cATHkGbZOgiLV8pledjQPJ+682AyuW5rWR3/SgqbwVR7NrzSLtKGoj6rMIVm7\n8fZQiQOA4xoIYuXn5Kjt/PPYgURyaslGpuzbZDTVCZ0/n7RcD+RmDvfr5XA9mTmo\n0Hygjy+LLKPmODqXZaAAAb40xt193QNJV28HnulXm6PuRUcCulp+W+HZnWfsFid/\nNGLV/UHnggxtjr/7V3EGkscFyzQZSpawrby6qkvXGQKBgQDJOQHivBcngvXtZEKm\nhJMppurHDpI1o/q4xf51/+YiGbNrmAluANx1L1Ra05Hv6emkcyiuimwZD7GTcM/C\nNWxYvg7WMfiLJPgYiqhC9+EnammAnt6hiIIylPUwSka8ZIztzXf4nOCLpxJ6MlY9\nhA57L4aSkQ7sNmFOc27DGrrJOwKBgQDIH8I56IGuPUJknI30wFiwX5Q3aTaTP1kn\nNJQbrn517TU6q5pgvJAILKTWes9ux/jtqmNaVfuXTsEprLocQkqvEnH11GOVhhe5\nE1+TSlwxxwBSjsiVumUo5LFTjjthwM5qaYHK5cTb1fOIf3mgUXcGjdAVIGn2IgVe\nWcr9kjholwKBgG1iif3hVYzrChk0SW8P3pfj3vi6mQyDyYWsS/mFVGrxIbG5glbE\nLROe2PJO1KRgudvlphXLtZuiBlwqFSZzuCQ9nP8fRwcM37knlvRgn4q3tAZxVoDl\nHjG0+9x2ZCGBX4LeEPua/A2uksLOnkbuhJi+ax89r6kEnrzwzyNMYoGFAoGAQloN\nSqflP0D+X19szaZsgWXfPZP7zUxmodIT/S2Yrj7MtDwrPkGmu58ZtCcZ2ZAh36Lr\nuArkFOG+t7OWLUJpgqxp7mjR78R63xkmSi6QbMyfNcAzjzkyyyEwDhUNaTbE+ZEr\nwHr4Dy9bxHkHeXkpLpocULTjjQDwqLy6yeIOI9cCgYAyumDbex1eohMUvMsACKyF\nRa2t2tGJAm/I6iKWF3MnOgQddUjnx1LDlgmy0pIPOFj4C8ZLeMMOlbOiDtWxUArl\nWPXL3DjA8kaVxPSqSZ7IP+GnUOM8it3pZ3onbvVby+vuCJyeXIsDMGETsR6KXkcN\nlOvry9OTOJnQ8dWItA6PwA==\n-----END PRIVATE KEY-----\n",
+            "client_email": "firebase-adminsdk-0p6ps@storechain-task.iam.gserviceaccount.com",
+            "client_id": "114875775103110692183",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-0p6ps%40storechain-task.iam.gserviceaccount.com"
+          }          ,
+        "databaseurl": "https://storechain-task.firebaseio.com"
+
+    }
+     
+      
+
+}

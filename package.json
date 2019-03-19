@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/marioramos94/task#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "firebase-admin": "^7.1.0"
   }
 }
