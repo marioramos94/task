@@ -1,7 +1,8 @@
-var http = require('http');
+var express = require('express');
+var app = express();
+app.get('/',function(res,req){
+  res.send('Hello world(test2)!\n');
+})
 var port = 9000;
-http.createServer(function(req,res){ 
-  res.writeHead(200,{'Content-Type':'test/plain'});
-  res.end('Hello world!\n');
-}).listen(port);
-console.log('Listening on port',port);
+app.listen(port);
+console.log('Listening on port', port);
